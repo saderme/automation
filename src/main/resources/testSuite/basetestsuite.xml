@@ -1,0 +1,8 @@
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite name="Base TestSuite">
+<test name="BaseTest Test">
+	<classes>
+		<class name="com.expedia.test.testscripts.TestNG_TestSuite"></class>
+	</classes>
+</test>
+</suite>

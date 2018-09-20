@@ -1,0 +1,9 @@
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite name="SuiteName" parallel="methods">
+    <test name="TestName" allow-return-values="true">
+        <classes>
+            <class name="example.test.testbase.Test001P"></class>
+            <class name="example.test.testbase.Test002P"></class>
+        </classes>
+    </test>
+</suite>
